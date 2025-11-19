@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/gauravs-projects-752b1299/v0-interactive-frontend-project](https://vercel.com/gauravs-projects-752b1299/v0-interactive-frontend-project)**
+**[https:interactive.koiralagaurav.com.np](https:interactive.koiralagaurav.com.np)**
 
 ## Build your app
 
