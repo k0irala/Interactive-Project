@@ -55,7 +55,7 @@ export default function ControlPanel({
         <input
           type="range"
           min="0.1"
-          max="3"
+          max="1"
           step="0.1"
           value={speed}
           onChange={(e) => setSpeed(Number(e.target.value))}
@@ -64,7 +64,7 @@ export default function ControlPanel({
         <div className="flex justify-between text-xs text-gray-500">
           <span>0.1x</span>
           <span className="text-lime-400 font-mono">{speed.toFixed(1)}x</span>
-          <span>3x</span>
+          <span>1x</span>
         </div>
       </div>
 
