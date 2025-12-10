@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Particle System',
   description: 'TS particle system',
-  generator: 'Particle System',
+  generator: 'Particle Systems',
   icons: {
     icon: [
       {
